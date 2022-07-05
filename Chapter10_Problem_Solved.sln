@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Backward_String", "Backward
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordCounter", "WordCounter\WordCounter.vcxproj", "{7FAAEDA7-131F-4140-90B8-062AB11FE09D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Average_number_letters", "Average_number_letters\Average_number_letters.vcxproj", "{B0614F6E-AE21-43DE-96BD-355D016CA7F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{7FAAEDA7-131F-4140-90B8-062AB11FE09D}.Release|x64.Build.0 = Release|x64
 		{7FAAEDA7-131F-4140-90B8-062AB11FE09D}.Release|x86.ActiveCfg = Release|Win32
 		{7FAAEDA7-131F-4140-90B8-062AB11FE09D}.Release|x86.Build.0 = Release|Win32
+		{B0614F6E-AE21-43DE-96BD-355D016CA7F1}.Debug|x64.ActiveCfg = Debug|x64
+		{B0614F6E-AE21-43DE-96BD-355D016CA7F1}.Debug|x64.Build.0 = Debug|x64
+		{B0614F6E-AE21-43DE-96BD-355D016CA7F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0614F6E-AE21-43DE-96BD-355D016CA7F1}.Debug|x86.Build.0 = Debug|Win32
+		{B0614F6E-AE21-43DE-96BD-355D016CA7F1}.Release|x64.ActiveCfg = Release|x64
+		{B0614F6E-AE21-43DE-96BD-355D016CA7F1}.Release|x64.Build.0 = Release|x64
+		{B0614F6E-AE21-43DE-96BD-355D016CA7F1}.Release|x86.ActiveCfg = Release|Win32
+		{B0614F6E-AE21-43DE-96BD-355D016CA7F1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
